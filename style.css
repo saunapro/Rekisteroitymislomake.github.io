@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(kuva/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    overflow-x: hidden;
+    /* Hide horizontal scrollbar */
+}
+h1{
+    color:purple;
+}
+
